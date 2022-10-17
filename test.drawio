@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T20:24:25.352Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="hSqHSdsuhdsupSgcEpFK" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-17T20:25:28.777Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="W8N2ItG_g6iottZMkFQO" version="20.4.1" type="github">
   <diagram id="MYiubayEztFGwC_8K_VW" name="Page-1">
     <mxGraphModel dx="946" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -93,6 +93,9 @@
         </mxCell>
         <mxCell id="qeC_8O_hMwb7RruEvmz8-36" value="Slave" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="445" y="504" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeC_8O_hMwb7RruEvmz8-38" value="Synchronous&lt;br&gt;Replication" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];rounded=0;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="334" y="469" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
