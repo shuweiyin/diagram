@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-21T19:52:53.017Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="19QQiMZiqPqDXbJqIn2W" version="20.4.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-21T19:54:34.786Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="UAEbcfr7tvcffm9-HRA1" version="20.4.2" type="github" pages="2">
   <diagram id="MYiubayEztFGwC_8K_VW" name="Page-1">
     <mxGraphModel dx="1186" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -116,7 +116,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="A9GFV0IZBbkGmzlclGCO" name="Page-2">
-    <mxGraphModel dx="946" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1796" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -229,6 +229,12 @@
         </mxCell>
         <mxCell id="5oXt3WrsHGLNaCDxh3T2-15" value="Internet Gateway" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="5oXt3WrsHGLNaCDxh3T2-1">
           <mxGeometry x="-54" y="270" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5oXt3WrsHGLNaCDxh3T2-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="5oXt3WrsHGLNaCDxh3T2-70" target="5oXt3WrsHGLNaCDxh3T2-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oXt3WrsHGLNaCDxh3T2-70" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_2;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="343" width="79.5" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
