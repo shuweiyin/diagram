@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T15:18:37.241Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="-kknkRp68PlAY37iW3V4" version="20.5.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-23T15:18:47.304Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="iF-gXntsVGCEeVHKHowk" version="20.5.0" type="github" pages="4">
   <diagram id="MYiubayEztFGwC_8K_VW" name="Page-1">
     <mxGraphModel dx="1186" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -379,6 +379,9 @@
         <mxCell id="EjJ7uk6ibrrchANBwcsB-12" value="10.0.1.0/24" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="EjJ7uk6ibrrchANBwcsB-11">
           <mxGeometry x="25" y="15" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="EjJ7uk6ibrrchANBwcsB-23" value="Nat Gateway" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="EjJ7uk6ibrrchANBwcsB-11">
+          <mxGeometry x="105" y="78" width="90" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="EjJ7uk6ibrrchANBwcsB-13" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.network_access_control_list;" vertex="1" parent="EjJ7uk6ibrrchANBwcsB-2">
           <mxGeometry x="493.75" y="162.5" width="37.5" height="37.5" as="geometry" />
         </mxCell>
@@ -419,9 +422,6 @@
         </mxCell>
         <mxCell id="EjJ7uk6ibrrchANBwcsB-22" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.nat_gateway;" vertex="1" parent="EjJ7uk6ibrrchANBwcsB-2">
           <mxGeometry x="580" y="150" width="46" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="EjJ7uk6ibrrchANBwcsB-23" value="Nat Gateway" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="EjJ7uk6ibrrchANBwcsB-2">
-          <mxGeometry x="328" y="263" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EjJ7uk6ibrrchANBwcsB-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="EjJ7uk6ibrrchANBwcsB-2" source="EjJ7uk6ibrrchANBwcsB-26" target="EjJ7uk6ibrrchANBwcsB-16">
           <mxGeometry relative="1" as="geometry" />
